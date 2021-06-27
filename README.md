@@ -1,2 +1,2 @@
 # git-github
-Getting started xD
+Getting started
