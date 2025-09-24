@@ -1,2 +1,1 @@
-# git-github
-Getting started
+ML Assignment Steps 1 and 2 
